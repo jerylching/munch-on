@@ -1,0 +1,87 @@
+[
+    {
+        "date": "2023-12-01",
+        "meals": [
+            {
+                "name": "breakfast",
+                "recipeName": ["Tapsilog"]
+            },
+            {
+                "name": "lunch",
+                "recipeName": ["Sinigang na Baboy"]
+            },
+            {
+                "name": "dinner",
+                "recipeName": ["Adobong Kangkong"]
+            }
+        ]
+    },
+    {
+        "date": "2023-12-02",
+        "meals": [
+            {
+                "name": "breakfast",
+                "recipeName": ["Corned Beef Hash and Eggs"]
+            },
+            {
+                "name": "lunch",
+                "recipeName": ["Fried Chicken"]
+            },
+            {
+                "name": "dinner",
+                "recipeName": ["BBQ Beef & Vegetable Stir-Fry"]
+            }
+        ]
+    },
+    {
+        "date": "2023-12-03",
+        "meals": [
+            {
+                "name": "breakfast",
+                "recipeName": ["Fluffy Pancakes"]
+            },
+            {
+                "name": "lunch",
+                "recipeName": ["Chicken Parmesan"]
+            },
+            {
+                "name": "dinner",
+                "recipeName": ["Broccoli Tofu Stir Fry"]
+            }
+        ]
+    },
+    {
+        "date": "2023-12-04",
+        "meals": [
+            {
+                "name": "breakfast",
+                "recipeName": ["French Toast"]
+            },
+            {
+                "name": "lunch",
+                "recipeName": ["Beef Tenderloin in Mushroom Sauce"]
+            },
+            {
+                "name": "dinner",
+                "recipeName": ["Ginisang Pechay with Oyster Sauce"]
+            }
+        ]
+    },
+    {
+        "date": "2023-12-05",
+        "meals": [
+            {
+                "name": "breakfast",
+                "recipeName": ["Century Egg and Pork Congee"]
+            },
+            {
+                "name": "lunch",
+                "recipeName": ["Chinese Egg Drop Soup"]
+            },
+            {
+                "name": "dinner",
+                "recipeName": ["Baked Salmon"]
+            }
+        ]
+    }
+]

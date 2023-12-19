@@ -1,0 +1,44 @@
+[
+    {
+        "ingredientName": "squid",
+        "ingredientCode": "squid",
+        "image": "https://img.freepik.com/premium-photo/fresh-octopus-squids-raw_1339-67343.jpg?w=1060",
+        "quantity": 6,
+        "unitOfMeasurement": "pieces"
+    },
+    {
+        "ingredientName": "parsley",
+        "ingredientCode": "parsley",
+        "image": "https://img.freepik.com/free-photo/fresh-organic-leaf-vegetarian-spice_1203-5927.jpg?w=360&t=st=1701641163~exp=1701641763~hmac=45ce1e8d74022d7e6fe224b1b47950d87583ee1971c8d7f7346b0ea7e466e179",
+        "quantity": 250,
+        "unitOfMeasurement": "g"
+    },
+    {
+        "ingredientName": "green bell pepper",
+        "ingredientCode": "greenbellpepper",
+        "image": "https://img.freepik.com/free-photo/colorful-bell-pepper_1203-6833.jpg?w=1060&t=st=1701641189~exp=1701641789~hmac=53ed21b1616e7203c356a21224e081f91da883ff3ee4245e81bfbf8edbf73d72",
+        "quantity": 4,
+        "unitOfMeasurement": "pieces"
+    },
+    {
+        "ingredientName": "red bell pepper",
+        "ingredientCode": "redbellpepper",
+        "image": "https://img.freepik.com/free-photo/red-pepper_1203-2186.jpg?w=740&t=st=1701641207~exp=1701641807~hmac=c30c1c25e193dcb8217dc553b3dcd4d581231869ef877852c333f1ba47c6c49c",
+        "quantity": 4,
+        "unitOfMeasurement": "pieces"
+    },
+    {
+        "ingredientName": "red chili",
+        "ingredientCode": "redchili",
+        "image": "https://img.freepik.com/free-photo/red-fresh-chili-peppers-isolated-white_114579-43541.jpg?w=1060&t=st=1701641238~exp=1701641838~hmac=cabb46a5eaac34f6286b00ef323f12d2a069b810a5fcfd644fe883174a7a9de7",
+        "quantity": 200,
+        "unitOfMeasurement": "g"
+    },
+    {
+        "ingredientName": "green chili",
+        "ingredientCode": "greenchili",
+        "image": "https://img.freepik.com/free-photo/green-chili-peppers_2829-14199.jpg?w=1060&t=st=1701641260~exp=1701641860~hmac=5524c1615f0bb84e5fd615bd10d5abaf8241c0a4675b109140791ee5852f2d3e",
+        "quantity": 200,
+        "unitOfMeasurement": "g"
+    }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "ingredientName": "chicken breast",
+    "ingredientCode": "chickenbreast",
+    "image": "https://t3.ftcdn.net/jpg/00/80/96/18/240_F_80961816_HR0K3OLWvNZ5xITUpjg7sMZkDVSZbJOi.jpg",
+    "quantity": 4,
+    "unitOfMeasurement": "pcs"
+  },
+  {
+    "ingredientName": "whole chicken",
+    "ingredientCode": "wholechicken",
+    "image": "https://cdn.womensrunning.com/wp-content/uploads/2020/07/Chicken.jpg",
+    "quantity": 1,
+    "unitOfMeasurement": "pc"
+  },
+  {
+    "ingredientName": "chicken thigh",
+    "ingredientCode": "chickenthigh",
+    "image": "https://media.istockphoto.com/id/1401936268/photo/chicken-thigh-meat-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=t-1trtyDgQTmJP2U11CDHea_NDUdpKZzzzAU9t1qpYY=",
+    "quantity": 4,
+    "unitOfMeasurement": "pcs"
+  },
+  {
+    "ingredientName": "beef sirloin",
+    "ingredientCode": "beefsirloin",
+    "image": "https://embed.widencdn.net/img/beef/4z45go2rp1/800x600px/Top%20Sirloin%20Filet%20(Baseball%20Cut)_1184B.jpg?keep=c&u=7fueml",
+    "quantity": 2,
+    "unitOfMeasurement": "kg"
+  },
+  {
+    "ingredientName": "beef shank",
+    "ingredientCode": "beefshank",
+    "image": "https://www.shutterstock.com/image-photo/raw-osso-buco-veal-shank-600nw-2276909315.jpg",
+    "quantity": 1,
+    "unitOfMeasurement": "kg"
+  },
+  {
+    "ingredientName": "pork shoulder",
+    "ingredientCode": "porkshoulder",
+    "image": "https://media.istockphoto.com/id/1300699678/photo/raw-pork-shoulder-on-white-background.jpg?s=612x612&w=0&k=20&c=_YjqxvEsrXH_MvwlgN_ES0pHYuEqSUgNqqo7S7SbkLc=",
+    "quantity": 1.5,
+    "unitOfMeasurement": "kg"
+  },
+  {
+    "ingredientName": "pork spare ribs",
+    "ingredientCode": "porkspareribs",
+    "image": "https://s3.ap-southeast-1.amazonaws.com/control-center.builtamart.com/public/products/437.jpg",
+    "quantity": "2",
+    "unitOfMeasurement": "kg"
+  },
+  {
+    "ingredientName": "salmon",
+    "ingredientCode": "salmon",
+    "image": "https://motionarray.imgix.net/preview-1577613-pQlrogJsDlukNsl5-large.jpg?w=660&q=60&fit=max&auto=format",
+    "quantity": 4,
+    "unitOfMeasurement": "pcs"
+  },
+  {
+    "ingredientName": "sole",
+    "ingredientCode": "sole",
+    "image": "https://images.freshop.com/1564405684702508876/ed1ff81fd1ace81d1d749df722f79f3c_large.png",
+    "quantity": 2,
+    "unitOfMeasurement": "pcs"
+  },
+  {
+    "ingredientName": "tuna",
+    "ingredientCode": "tuna",
+    "image": "https://img.freepik.com/premium-photo/raw-tuna-steak-isolated-white-backgrounds_183352-881.jpg?w=2000",
+    "quantity": 2,
+    "unitOfMeasurement": "pcs"
+  },
+  {
+    "ingredientName": "kangkong",
+    "ingredientCode": "kangkong",
+    "image": "https://the-veggie-table.com/cdn/shop/products/NativeKangkong_1473x.jpg?v=1657081521",
+    "quantity": 500,
+    "unitOfMeasurement": "g"
+  },
+  {
+    "ingredientName": "lettuce",
+    "ingredientCode": "lettuce",
+    "image": "https://futurefresh.ph/cdn/shop/products/crystal-lettuce-1050px_1ad00663-5ba1-4432-bd44-80b915b08bfd_800x.jpg?v=1661498048",
+    "quantity": 1,
+    "unitOfMeasurement": "kg"
+  },
+  {
+    "ingredientName": "onion",
+    "ingredientCode": "onion",
+    "image": "https://fishnchix.ph/cdn/shop/products/36700-0w470h470_Organic_Red_Onion_From_Italy.jpg?v=1630407043",
+    "quantity": 10,
+    "unitOfMeasurement": "pieces"
+  },
+  {
+    "ingredientName": "garlic",
+    "ingredientCode": "garlic",
+    "image": "https://www.organics.ph/cdn/shop/products/garlic-peeled-250grams-fruits-vegetables-fresh-produce-982039_1024x.jpg?v=1601483078",
+    "quantity": 10,
+    "unitOfMeasurement": "pieces"
+  },
+  {
+    "ingredientName": "ginger",
+    "ingredientCode": "ginger",
+    "image": "https://m.media-amazon.com/images/I/61SCxbFGpWL._AC_UF1000,1000_QL80_.jpg",
+    "quantity": 3,
+    "unitOfMeasurement": "pieces"
+  },
+  {
+    "ingredientName": "tomatoes",
+    "ingredientCode": "tomatoes",
+    "image": "https://i5.walmartimages.com/seo/Fresh-Roma-Tomato-Each_8769d65a-5697-4d90-ae1f-8ba90a60b867.ab382f49617c7943d68ed2f96431d6c6.jpeg",
+    "quantity": 10,
+    "unitOfMeasurement": "pieces"
+  },
+  {
+    "ingredientName": "cucumber",
+    "ingredientCode": "cucumber",
+    "image": "https://fruitfortheoffice.co.uk/pub/media/catalog/product/cache/118fd06640efc949eafa2123c39b08e3/1/9/1918.jpg",
+    "quantity": 6,
+    "unitOfMeasurement": "pieces"
+  },
+  {
+    "ingredientName": "pechay",
+    "ingredientCode": "pechay",
+    "image": "https://res.cloudinary.com/hksqkdlah/image/upload/c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,h_0.99,q_auto:low,w_0.99/v1/CIO%20Web%20Articles/CIO%20Articles%202022/HTCs/SIL_Bok_Choy",
+    "quantity": 3,
+    "unitOfMeasurement": "kg"
+  },
+  {
+    "ingredientName": "okra",
+    "ingredientCode": "okra",
+    "image": "https://safeselect.ph/cdn/shop/products/okra_1600x.jpg?v=1641873383",
+    "quantity": 500,
+    "unitOfMeasurement": "g"
+  },
+  {
+    "ingredientName": "long beans",
+    "ingredientCode": "longbeans",
+    "image": "https://t4.ftcdn.net/jpg/00/34/28/91/360_F_34289106_89kemL1hyaZqVDShYOkoOsfeKEN4L2MJ.jpg",
+    "quantity": 500,
+    "unitOfMeasurement": "g"
+  },
+  {
+    "ingredientName": "taro",
+    "ingredientCode": "taro",
+    "image": "https://palengkego.shop/cdn/shop/products/arnilene-seafoods-quezon-city-gabi-taro-1kg-17588968947876_1200x1200_a9a54801-4f84-4449-a089-974d9e521b99_1000x.jpg?v=1627485201",
+    "quantity": 2,
+    "unitOfMeasurement": "pieces"
+  },
+  {
+    "ingredientName": "radish",
+    "ingredientCode": "radish",
+    "image": "https://shop.healthyoptions.com.ph/cdn/shop/products/92237.jpg?v=1678247851",
+    "quantity": 1,
+    "unitOfMeasurement": "piece"
+  },
+  {
+    "ingredientName": "potato",
+    "ingredientCode": "potato",
+    "image": "https://img.freepik.com/premium-photo/young-potato-isolated-white-background-harvest-new-flat-lay-top-view_438009-5430.jpg",
+    "quantity": 6,
+    "unitOfMeasurement": "pieces"
+  },
+  {
+    "ingredientName": "carrot",
+    "ingredientCode": "carrot",
+    "image": "https://www.shutterstock.com/image-photo/fresh-organic-carrot-isolated-on-600nw-1918663397.jpg",
+    "quantity": 2,
+    "unitOfMeasurement": "pieces"
+  },
+  {
+    "ingredientName": "celery",
+    "ingredientCode": "celery",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Celery-stalks-and-leaves-7860193.jpg?quality=90&resize=556,505",
+    "quantity": 3,
+    "unitOfMeasurement": "stalks"
+  },
+  {
+    "ingredientName": "squash",
+    "ingredientCode": "squash",
+    "image": "https://farmridge.ph/wp-content/uploads/2021/06/Kalabasa-1.jpg",
+    "quantity": 1,
+    "unitOfMeasurement": "piece"
+  },
+  {
+    "ingredientName": "eggplant",
+    "ingredientCode": "eggplant",
+    "image": "https://static.libertyprim.com/files/familles/aubergine-large.jpg?1569271723",
+    "quantity": 3,
+    "unitOfMeasurement": "pieces"
+  },
+  {
+    "ingredientName": "fresh mushroom",
+    "ingredientCode": "freshmushroom",
+    "image": "https://deligoodph.com/cdn/shop/products/ShiitakeM_540x.jpg?v=1632574343",
+    "quantity": 500,
+    "unitOfMeasurement": "g"
+  },
+  {
+    "ingredientName": "eggs",
+    "ingredientCode": "eggs",
+    "image": "https://thumbs.dreamstime.com/b/brown-egg-26626768.jpg",
+    "quantity": 24,
+    "unitOfMeasurement": "pieces"
+  },
+  {
+    "ingredientName": "garlic powder",
+    "ingredientCode": "garlicpowder",
+    "image": "https://store.mccormick.com.ph/473-big_default_2x/garlic-powder-35g.jpg",
+    "quantity": 1,
+    "unitOfMeasurement": "bottle"
+  },
+  {
+    "ingredientName": "onion powder",
+    "ingredientCode": "onionpowder",
+    "image": "https://store.mccormick.com.ph/418-big_default_2x/onion-powder-37g.jpg",
+    "quantity": 1,
+    "unitOfMeasurement": "bottle"
+  },
+  {
+    "ingredientName": "bay leaves",
+    "ingredientCode": "bayleaves",
+    "image": "https://store.mccormick.com.ph/281-big_default_2x/bay-leaves-whole-10g.jpg",
+    "quantity": 1,
+    "unitOfMeasurement": "pack"
+  },
+  {
+    "ingredientName": "peppercorn",
+    "ingredientCode": "peppercorn",
+    "image": "https://ezbake.com/cdn/shop/products/IMG_0612BLACKPEPPERWHOLE-PACKETS-5GRAMS_1024x.jpg?v=1611037659",
+    "quantity": 1,
+    "unitOfMeasurement": "pack"
+  },
+  {
+    "ingredientName": "black pepper",
+    "ingredientCode": "blackpepper",
+    "image": "https://store.mccormick.com.ph/419-big_default_2x/black-pepper-whole-29g.jpg",
+    "quantity": 1,
+    "unitOfMeasurement": "bottle"
+  },
+  {
+    "ingredientName": "salt",
+    "ingredientCode": "salt",
+    "image": "https://store.mccormick.com.ph/233-big_default_2x/iodized-salt-1kg.jpg",
+    "quantity": 1,
+    "unitOfMeasurement": "pack"
+  },
+  {
+    "ingredientName": "liquid seasoning",
+    "ingredientCode": "liquidseasoning",
+    "image": "https://assets.unileversolutions.com/v1/55742993.png",
+    "quantity": 1,
+    "unitOfMeasurement": "bottle"
+  },
+  {
+    "ingredientName": "soy sauce",
+    "ingredientCode": "soysauce",
+    "image": "https://csistore.ph/wp-content/uploads/2020/06/Datu-Puti-Soy-Sauce-1000ML.jpg",
+    "quantity": 1,
+    "unitOfMeasurement": "bottle"
+  },
+  {
+    "ingredientName": "oyster sauce",
+    "ingredientCode": "oystersauce",
+    "image": "https://www.pacificbay.com.ph/cdn/shop/products/panda-oyster-sauce-886547.jpg?v=1626331685",
+    "quantity": 1,
+    "unitOfMeasurement": "bottle"
+  },
+  {
+    "ingredientName": "thyme",
+    "ingredientCode": "thyme",
+    "image": "https://store.mccormick.com.ph/470-big_default_2x/thyme-leaves-whole-14g.jpg",
+    "quantity": 1,
+    "unitOfMeasurement": "pack"
+  },
+  {
+    "ingredientName": "vinegar",
+    "ingredientCode": "vinegar",
+    "image": "https://images.freshop.com/14906/5410aa57c4345ca70dc362a952ab56e8_large.png",
+    "quantity": 1,
+    "unitOfMeasurement": "bottle"
+  },
+  {
+    "ingredientName": "sugar",
+    "ingredientCode": "sugar",
+    "image": "https://ever.ph/cdn/shop/products/9000011159-Hermano-Refined-Sugar-2kg-210415_3b00a48c-0940-46e2-bad2-4ad911df43a1_580x.jpg?v=1669625845",
+    "quantity": 1,
+    "unitOfMeasurement": "pack"
+  },
+  {
+    "ingredientName": "flour",
+    "ingredientCode": "flour",
+    "image": "https://img.ws.mms.shopee.ph/504847d6d3ad008bcaf91f9670a960b7",
+    "quantity": 1,
+    "unitOfMeasurement": "kg"
+  },
+  {
+    "ingredientName": "baking powder",
+    "ingredientCode": "bakingpowder",
+    "image": "https://bcdelivery.com.ph/cdn/shop/products/QUEENBP200G_1.jpg?v=1618652808",
+    "quantity": 500,
+    "unitOfMeasurement": "g"
+  },
+  {
+    "ingredientName": "baking soda",
+    "ingredientCode": "bakingsoda",
+    "image": "https://filebroker-cdn.lazada.com.ph/kf/S2aa0ac827c2347f4bb5d182244e396d9z.jpg",
+    "quantity": 500,
+    "unitOfMeasurement": "g"
+  },
+  {
+    "ingredientName": "all purpose cream",
+    "ingredientCode": "allpurposecream",
+    "image": "https://down-ph.img.susercontent.com/file/6f951f6d45b29732029c8e0b92674901",
+    "quantity": 1,
+    "unitOfMeasurement": "pack"
+  },
+  {
+    "ingredientName": "fruit cocktail",
+    "ingredientCode": "fruitcocktail",
+    "image": "https://api.lifegetsbetter.ph/uploads/products/DM-FiestaFruitCocktail3kg.png",
+    "quantity": 2,
+    "unitOfMeasurement": "cans"
+  },
+  {
+    "ingredientName": "buko meat",
+    "ingredientCode": "bukomeat",
+    "image": "https://specialtyproduce.com/sppics/1233.png",
+    "quantity": 500,
+    "unitOfMeasurement": "g"
+  },
+  {
+    "ingredientName": "condensed milk",
+    "ingredientCode": "condensedmilk",
+    "image": "https://media.istockphoto.com/id/1484275916/photo/close-up-of-condensed-milk-with-spoon-isolated-on-white-background-food-ingredients-concept.webp?b=1&s=170667a&w=0&k=20&c=Fv4uUQa7BPSATeKQce0v2xnfBIjvoKwQGgm3o-O3h7c=",
+    "quantity": 1,
+    "unitOfMeasurement": "pack"
+  },
+  {
+    "ingredientName": "milk",
+    "ingredientCode": "milk",
+    "image": "https://img.freepik.com/premium-photo/glass-bottle-fresh-milk-isolated-white-background_252965-47.jpg",
+    "quantity": 1,
+    "unitOfMeasurement": "pack"
+  },
+  {
+    "ingredientName": "cheddar cheese",
+    "ingredientCode": "cheddarcheese",
+    "image": "https://shoppe24.ph/cdn/shop/products/ab3ae3d8e962b329a2c2974c40236e5a_640x.jpg?v=1587277309",
+    "quantity": 1,
+    "unitOfMeasurement": "pack"
+  },
+  {
+    "ingredientName": "cooking oil",
+    "ingredientCode": "cookingoil",
+    "image": "https://shopmetro.ph/carcar-supermarket/wp-content/uploads/2021/03/SM15001916-20.jpg",
+    "quantity": 1,
+    "unitOfMeasurement": "bottle"
+  },
+  {
+    "ingredientName": "olive oil",
+    "ingredientCode": "oliveoil",
+    "image": "https://acemarket.ph/cdn/shop/products/E-comm-DonaElenaPomaceOliveOil-500ml_0424962f-e8a7-4c23-8a17-9b879bd71672.jpg?v=1694496236",
+    "quantity": 1,
+    "unitOfMeasurement": "bottle"
+  }
+]
