@@ -49,7 +49,7 @@ const PantryPage = () => {
       try {
         console.log("Token:", token);
         // Use the token from the Redux store
-        const response = await fetch("http://localhost:8080/api/pantry", {
+        const response = await fetch(`${import.meta.env.VITE_API_URL}/pantry`, {
           headers: {
             Authorization: `${token}`,
           },
@@ -100,7 +100,7 @@ const PantryPage = () => {
     try {
       const authToken = token; // Assuming `token` is already defined
 
-      const url = "http://localhost:8080/api/pantry/";
+      const url = `${import.meta.env.VITE_API_URL}/pantry/`;
 
       const response = await fetch(url, {
         method: "POST",
@@ -136,7 +136,7 @@ const PantryPage = () => {
       const authToken = token; // Replace with your actual token
 
       // Update quantity using fetch
-      await fetch(`http://localhost:8080/api/pantry/${itemId}`, {
+      await fetch(`${import.meta.env.VITE_API_URL}/pantry/${itemId}`, {
         method: "PATCH",
         headers: {
           "Content-Type": "application/json",
@@ -156,7 +156,7 @@ const PantryPage = () => {
   const handleDeletePantryItem = async (itemId) => {
     try {
       const authToken = token;
-      await fetch(`http://localhost:8080/api/pantry/${itemId}`, {
+      await fetch(`${import.meta.env.VITE_API_URL}/pantry/${itemId}`, {
         method: "DELETE",
         headers: {
           Authorization: `${authToken}`,

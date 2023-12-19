@@ -41,7 +41,7 @@ const Calendar = () => {
       const authToken = getAuthToken;
       const dateString = date.format("YYYY-MM-DD");
       const response = await fetch(
-        `http://localhost:8080/api/mealplans/${dateString}`,
+        `${import.meta.env.VITE_API_URL}/mealplans/${dateString}`,
         {
           headers: {
             Authorization: `${authToken}`,
@@ -73,7 +73,7 @@ const Calendar = () => {
 
     try {
       const response = await axios.get(
-        `http://localhost:8080/api/recipes/search?query=${query}`
+        `${import.meta.env.VITE_API_URL}/recipes/search?query=${query}`
       );
       setRecipes(Array.isArray(response.data.data) ? response.data.data : []);
     } catch (error) {
@@ -87,7 +87,7 @@ const Calendar = () => {
     const dateString = date.format("YYYY-MM-DD");
     try {
       const response = await axios.post(
-        `http://localhost:8080/api/mealplans/create/${dateString}`,
+        `${import.meta.env.VITE_API_URL}/mealplans/create/${dateString}`,
         {
           mealType: mealType,
           recipeName: recipe.recipeName,
@@ -122,7 +122,7 @@ const Calendar = () => {
     try {
       // Send delete request to backend with the authorization header
       const response = await axios.delete(
-        `http://localhost:8080/api/mealplans/delete/${dateString}/${mealType}/${recipeName}`,
+        `${import.meta.env.VITE_API_URL}/mealplans/delete/${dateString}/${mealType}/${recipeName}`,
         {
           headers: {
             Authorization: `${authToken}`,

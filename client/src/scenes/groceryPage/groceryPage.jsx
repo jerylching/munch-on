@@ -42,7 +42,7 @@ const GroceryPage = () => {
     const fetchData = async () => {
       try {
         // Use the token from the Redux store
-        const response = await fetch("http://localhost:8080/api/grocery", {
+        const response = await fetch(`${import.meta.env.VITE_API_URL}/grocery`, {
           headers: {
             Authorization: `${token}`,
           },
@@ -74,7 +74,7 @@ const GroceryPage = () => {
     try {
       const authToken = token; // Assuming `token` is already defined
 
-      const url = "http://localhost:8080/api/grocery/";
+      const url = `${import.meta.env.VITE_API_URL}/grocery/`;
 
       const response = await fetch(url, {
         method: "POST",
@@ -88,7 +88,7 @@ const GroceryPage = () => {
         alert("Successful Added Item");
         // Fetch the updated data without reloading the window
         const updateResponse = await fetch(
-          "http://localhost:8080/api/grocery",
+          `${import.meta.env.VITE_API_URL}/grocery`,
           {
             headers: {
               Authorization: `${token}`,
@@ -126,7 +126,7 @@ const GroceryPage = () => {
       const authToken = token; // Replace with your actual token
 
       // Update quantity using fetch
-      await fetch(`http://localhost:8080/api/grocery/${itemId}`, {
+      await fetch(`${import.meta.env.VITE_API_URL}/grocery/${itemId}`, {
         method: "PATCH",
         headers: {
           "Content-Type": "application/json",
@@ -145,7 +145,7 @@ const GroceryPage = () => {
   const handleDeleteGrocery = async (itemId) => {
     try {
       const authToken = token;
-      await fetch(`http://localhost:8080/api/grocery/${itemId}`, {
+      await fetch(`${import.meta.env.VITE_API_URL}/grocery/${itemId}`, {
         method: "DELETE",
         headers: {
           Authorization: `${authToken}`,
@@ -163,7 +163,7 @@ const GroceryPage = () => {
     try {
       const authToken = token; // Assuming `token` is already defined
 
-      const url = "http://localhost:8080/api/pantry/";
+      const url = `${import.meta.env.VITE_API_URL}/pantry/`;
 
       const response = await fetch(url, {
         method: "POST",
@@ -177,7 +177,7 @@ const GroceryPage = () => {
       if (response.ok) {
         alert("Successful Added Item");
         const updateResponse = await fetch(
-          "http://localhost:8080/api/grocery",
+          `${import.meta.env.VITE_API_URL}/grocery`,
           {
             headers: {
               Authorization: `${token}`,

@@ -28,7 +28,7 @@ const RecipesPage = () => {
 
   const fetchRecipes = async () => {
     try {
-      const response = await fetch("http://localhost:8080/api/recipes");
+      const response = await fetch(`${import.meta.env.VITE_API_URL}/recipes`);
       if (response.ok) {
         const result = await response.json();
         console.log("Fetched recipes:", result); // Log to see what's being returned
@@ -86,7 +86,7 @@ const RecipesPage = () => {
 
     try {
       const response = await fetch(
-        `http://localhost:8080/api/mealplans/create/${dateString}`,
+        `${import.meta.env.VITE_API_URL}/mealplans/create/${dateString}`,
         {
           method: "POST",
           headers: {
@@ -144,7 +144,7 @@ const RecipesPage = () => {
   const handleAddRecipe = async () => {
     try {
       // Make a POST request to the backend endpoint
-      const response = await fetch("http://localhost:8080/api/recipes", {
+      const response = await fetch(`${import.meta.env.VITE_API_URL}/recipes`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -187,7 +187,7 @@ const RecipesPage = () => {
     try {
       // Make a DELETE request to the backend endpoint
       const response = await fetch(
-        `http://localhost:8080/api/recipes/${recipeName}`,
+        `${import.meta.env.VITE_API_URL}/recipes/${recipeName}`,
         {
           method: "DELETE",
           headers: {
